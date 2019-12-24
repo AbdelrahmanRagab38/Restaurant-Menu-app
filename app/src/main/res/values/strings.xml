@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <string-array name="Options">
+        <item>Eat</item>
+        <item>Drink</item>
+        <item>Other</item>
+
+    </string-array>
+    <string name="title_activity_constraint">Constraint</string>
+
+
+</resources>
